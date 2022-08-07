@@ -22,8 +22,10 @@ import pyrebase
 I also included a Dockerfile, since I wanted to run this script in a Docker in my Raspberry Pi.
 ```bash
 docker build --rm -t script .
+```
+```bash
 docker run --rm -it script
 ```
 ## App design
 Created using [MIT App Invenetor](https://appinventor.mit.edu/)
-![alt text](https://github.com/noelleon2001/IP-scraper-and-app/blob/main/app.jpeg?raw=true)
+![alt text](https://github.com/noelleon2001/IP-scraper-and-app/blob/main/app.jpeg?raw=true = x100)
