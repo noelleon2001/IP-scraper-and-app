@@ -26,4 +26,4 @@ docker run --rm -it script
 ```
 ## App design
 Created using [MIT App Invenetor](https://appinventor.mit.edu/)
-![alt text] (https://github.com/noelleon2001/IP-scraper-and-app/blob/main/app.jpeg?raw=true)
+![alt text](https://github.com/noelleon2001/IP-scraper-and-app/blob/main/app.jpeg?raw=true)
